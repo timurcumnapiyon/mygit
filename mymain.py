@@ -1,4 +1,4 @@
 import test
 test.mytest()
-print("ok")
+print("OK")
 
